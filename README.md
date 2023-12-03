@@ -4,7 +4,7 @@
 
 Olá mundo 
 
-[<img src= "animação-data-dev-quest.gif" alt="gif da imagem" >](https://www.google.com.br/)
+[<img src= "animação-data-dev-quest.gif" alt="gif-da-imagem">](https://www.google.com.br/)
 
 ## tecnologias usadas
 - html
